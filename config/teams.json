@@ -1,0 +1,43 @@
+{
+    "amazons": {
+        "displayName": "Amazons",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "lustrian-superleague",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "eagle-warrior",
+            "python-warrior",
+            "piranha-warrior",
+            "jaguar-warrior"
+        ]
+    },
+    "black orcs": {
+        "displayName": "Black Orcs",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "badlands-brawl",
+        "specialRuleIdList": [
+            "brawlin-brutes",
+            "bribery-and-corruption"
+        ],
+        "positionIdList": [
+            "goblin-bruiser",
+            "black-orc",
+            "trained-troll"
+        ]
+    },
+    "bretonnians": {
+        "displayName": "Bretonnians",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "Old World Classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "bretonnian-squire",
+            "bretonnian-knight-catcher",
+            "bretonnian-knight-thrower",
+            "grail-knight"
+        ]
+    }
+}

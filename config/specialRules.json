@@ -1,0 +1,27 @@
+{
+    "brawlin-brutes": {
+        "displayName": "Brawlin' Brutes",
+        "flavourText": "",
+        "ruleText": "During League Play, a team with this special rule will earn SPP slightly differently. Players on this team will earn 3 SPP for causing a Casualty rather than the usual 2. Additionall, players on this team will only earn 2 SPP for scoring a Touchdown rather than the usual 3."
+    },
+    "bribery-and-corruption": {
+        "displayName": "Bribery and Corruption",
+        "flavourText": "",
+        "ruleText": "Once per game, when a team with this special rule rolls a 1 to Argue the Call, they may re-roll the D6."
+    },
+    "favoured-of": {
+        "displayName": "Favoured of...",
+        "flavourText": "",
+        "ruleText": "Certain Inducements are only available to teams that are 'Favored of' a specific Chaos power, as noted in their description. A team may be noted as being either: Favoured of Chaos Undivided, Favoured of Khorne, Favoured of Tzeentch, Favoured of Slaanesh or Hashut. In some cases, however, you may be able to choose the team's alignment when the team is first drafted, as in the case of Chaos Renegades. A team with this special rule cannot change its alignment."
+    },
+    "low-cost-linemen": {
+        "displayName": "Low Cost Linemen",
+        "flavourText": "",
+        "ruleText": "In League Play, when a team with this special rule calculates its Current Team Value, treat the Hiring Fee of any Lineman players on the team as 0 gold pieces. Any value increase is included as normal."
+    },
+    "masters-of-death": {
+        "displayName": "Masters of Death",
+        "flavourText": "",
+        "ruleText": "Once per game, if an opposition player"
+    }
+}
