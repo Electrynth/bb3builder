@@ -12,7 +12,7 @@
             "jaguar-warrior"
         ]
     },
-    "black orcs": {
+    "black-orcs": {
         "displayName": "Black Orcs",
         "rerollCost": 60000,
         "hasApothecary": true,
@@ -29,15 +29,405 @@
     },
     "bretonnians": {
         "displayName": "Bretonnians",
-        "rerollCost": 60000,
+        "rerollCost": 50000,
         "hasApothecary": true,
-        "leagueId": "Old World Classic",
+        "leagueId": "old-world-classic",
         "specialRuleIdList": [],
         "positionIdList": [
             "bretonnian-squire",
             "bretonnian-knight-catcher",
             "bretonnian-knight-thrower",
             "grail-knight"
+        ]
+    },
+    "dark-elves": {
+        "displayName": "Dark Elves",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "dark-elf-lineman",
+            "dark-elf-runner",
+            "dark-elf-assassin",
+            "dark-elf-witch-elf",
+            "dark-elf-blight"
+        ]
+    },
+    "dwarfs": {
+        "displayName": "Dwarfs",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "dwarf-lineman",
+            "dwarf-runner",
+            "dwarf-blitzer",
+            "dwarf-troll-slayer",
+            "dwarf-deathroller"
+        ]
+    },
+    "humans": {
+        "displayName": "Humans",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "human-lineman",
+            "human-catcher",
+            "human-thrower",
+            "human-blitzer",
+            "ogre"
+        ]
+    },
+    "lizardmen": {
+        "displayName": "Lizardmen",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "lustrian-superleague",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "skink-runner",
+            "skink-chameleon",
+            "saurus-blocker",
+            "kroxigor"
+        ]
+    },
+    "orcs": {
+        "displayName": "Orcs",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "badlands-brawl",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "orc-lineman",
+            "orc-goblin",
+            "orc-thrower",
+            "orc-blitzer",
+            "orc-black-orc",
+            "orc-troll"
+        ]
+    },
+    "shambling-undead": {
+        "displayName": "Shambling Undead",
+        "rerollCost": 70000,
+        "hasApothecary": false,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "zombie",
+            "skeleton",
+            "ghoul",
+            "wight",
+            "mummy"
+        ]
+    },
+    "skaven": {
+        "displayName": "Skaven",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "skaven-lineman",
+            "skaven-thrower",
+            "skaven-gutter-runner",
+            "skaven-stormvermin",
+            "skaven-rat-ogre"
+        ]
+    },
+    "wood-elves": {
+        "displayName": "Wood Elves",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "wood-elf-lineman",
+            "wood-elf-catcher",
+            "wood-elf-wardancer",
+            "wood-elf-treeman"
+        ]
+    },
+    "chaos-chosen": {
+        "displayName": "Chaos Chosen",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [
+            "favoured-of"
+        ],
+        "positionIdList": [
+            "chaos-warrior",
+            "chaos-beastman",
+            "chaos-minotaur"
+        ]
+    },
+    "chaos-renegades": {
+        "displayName": "Chaos Renegades",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [
+            "favoured-of"
+        ],
+        "positionIdList": [
+            "renegade-human",
+            "renegade-ogre",
+            "renegade-skaven",
+            "renegade-goblin",
+            "renegade-dark-elf",
+            "renegade-orc",
+            "renegade-troll",
+            "renegade-minotaur"
+        ]
+    },
+    "elven-union": {
+        "displayName": "Elven Union",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "elven-union-lineman",
+            "elven-union-thrower",
+            "elven-union-catcher",
+            "elven-union-blitzer"
+        ]
+    },
+    "imperial-nobility": {
+        "displayName": "Imperial Nobility",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "imperial-retainer",
+            "imperial-thrower",
+            "imperial-bodyguard",
+            "imperial-ogre-bodyguard"
+        ]
+    },
+    "necromantic-horror": {
+        "displayName": "Necromantic Horror",
+        "rerollCost": 70000,
+        "hasApothecary": false,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "necromantic-zombie",
+            "necromantic-ghoul",
+            "necromantic-wight",
+            "necromantic-flesh-golem",
+            "necromantic-werewolf"
+        ]
+    },
+    "nurgle": {
+        "displayName": "Nurgle",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [
+            "favoured-of"
+        ],
+        "positionIdList": [
+            "nurgle-rotter",
+            "nurgle-pestigor",
+            "nurgle-warrior",
+            "nurgle-beast"
+        ]
+    },
+    "tomb-kings": {
+        "displayName": "Tomb Kings",
+        "rerollCost": 70000,
+        "hasApothecary": false,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "skeleton-lineman",
+            "tomb-king-throw-ra",
+            "tomb-king-blitz-ra",
+            "tomb-king-guardian"
+        ]
+    },
+    "underworld-denizens": {
+        "displayName": "Underworld Denizens",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "underworld-goblin",
+            "underworld-skaven-lineman",
+            "underworld-skaven-thrower",
+            "underworld-skaven-blower",
+            "underworld-skaven-linerat",
+            "underworld-troll"
+        ]
+    },
+    "goblins": {
+        "displayName": "Goblins",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "badlands-brawl",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "goblin-loonie",
+            "goblin-pogoer",
+            "goblin-fanatic",
+            "goblin-bomma",
+            "goblin-doof-diver",
+            "goblin-troll"
+        ]
+    },
+    "halflings": {
+        "displayName": "Halflings",
+        "rerollCost": 30000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [
+            "low-cost-linemen"
+        ],
+        "positionIdList": [
+            "halfling-hopeful",
+            "halfling-treeman"
+        ]
+    },
+    "ogres": {
+        "displayName": "Ogres",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "badlands-brawl",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "ogre-ogre",
+            "ogre-gnome"
+        ]
+    },
+    "old-world-alliance": {
+        "displayName": "Old World Alliance",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "alliance-human-lineman",
+            "alliance-halfling-hopeful",
+            "alliance-dwarf-lineman",
+            "alliance-human-thrower",
+            "alliance-human-blitzer",
+            "alliance-dwarf-longbeard",
+            "ogre"
+        ]
+    },
+    "vampires": {
+        "displayName": "Vampires",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "thrall",
+            "vampire-thrall",
+            "vampire"
+        ]
+    },
+    "chaos-dwarfs": {
+        "displayName": "Chaos Dwarfs",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "badlands-brawl",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "hobgoblin",
+            "chaos-dwarf-bullcentaur",
+            "chaos-dwarf-blocker",
+            "chaos-dwarf-minotaur"
+        ]
+    },
+    "khorne": {
+        "displayName": "Khorne",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [
+            "favoured-of"
+        ],
+        "positionIdList": [
+            "khorne-lineman",
+            "khorne-marauder",
+            "khorne-warrior",
+            "khorne-bloodspawn"
+        ]
+    },
+    "high-elves": {
+        "displayName": "High Elves",
+        "rerollCost": 50000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "high-elf-lineman",
+            "high-elf-thrower",
+            "high-elf-catcher",
+            "high-elf-blitzer",
+            "high-elf-lion-warrior"
+        ]
+    },
+    "norse": {
+        "displayName": "Norse",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "norse-lineman",
+            "norse-thrower",
+            "norse-ulfwerener",
+            "norse-yhetee",
+            "norse-valkyrie"
+        ]
+    },
+    "slann": {
+        "displayName": "Slann",
+        "rerollCost": 60000,
+        "hasApothecary": true,
+        "leagueId": "lustrian-superleague",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "slann-linefrog",
+            "slann-catcher",
+            "slann-blower",
+            "slann-kroxigor"
+        ]
+    },
+    "gnomes": {
+        "displayName": "Gnomes",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "old-world-classic",
+        "specialRuleIdList": [],
+        "positionIdList": [
+            "gnome-lineman",
+            "gnome-master-chef",
+            "gnome-forest-troll"
+        ]
+    },
+    "snotlings": {
+        "displayName": "Snotlings",
+        "rerollCost": 70000,
+        "hasApothecary": true,
+        "leagueId": "badlands-brawl",
+        "specialRuleIdList": [
+            "low-cost-linemen"
+        ],
+        "positionIdList": [
+            "snotling",
+            "snotling-pump-wagon",
+            "snotling-ogre",
+            "snotling-troll"
         ]
     }
 }

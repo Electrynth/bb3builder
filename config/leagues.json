@@ -1,11 +1,32 @@
 {
-    "lustrian-superleague": {
-        "displayName": "Lustrian SuperLeague"
-    },
     "badlands-brawl": {
         "displayName": "Badlands Brawl"
     },
+    "chaos-clash": {
+        "displayName": "Chaos Clash"
+    },
+    "elven-kingdoms-league": {
+        "displayName": "Elven Kingdoms League"
+    },
+    "halfling-thimble-cup": {
+        "displayName": "Halfling Thimble Cup"
+    },
+    "lustrian-superleague": {
+        "displayName": "Lustrian SuperLeague"
+    },
     "old-world-classic": {
         "displayName": "Old World Classic"
+    },
+    "sylvanian-spotlight": {
+        "displayName": "Sylvanian Spotlight"
+    },
+    "underworld-challenge": {
+        "displayName": "Underworld Challenge"
+    },
+    "woodland-league": {
+        "displayName": "Woodland League"
+    },
+    "worlds-edge-superleague": {
+        "displayName": "Worlds Edge SuperLeague"
     }
 }

@@ -1,197 +1,1090 @@
 {
-    "human-lineman": [
-        "Human Lineman",
-        "human,lineman",
-        0,
-        16,
-        50000,
-        6,
-        3,
-        3,
-        4,
-        9,
-        "",
+    "alliance-dwarf-lineman": [
+        "Alliance Dwarf Lineman",
+        "old world alliance,lineman",
+        0, 16, 70000, 4, 3, 4, 5, 10,
+        "block,defensive,thick skull",
         "general",
-        "agility,strength"
+        "strength"
     ],
-    "halfling-hopeful": [
-        "Halfling Hopeful",
-        "halfling,lineman",
-        0,
-        3,
-        30000,
-        5,
-        2,
-        3,
-        4,
-        7,
+    "alliance-dwarf-longbeard": [
+        "Alliance Dwarf Longbeard",
+        "old world alliance,blocker",
+        0, 2, 90000, 4, 3, 4, 5, 10,
+        "block,stand firm,thick skull",
+        "general,strength",
+        "passing"
+    ],
+    "alliance-halfling-hopeful": [
+        "Alliance Halfling Hopeful",
+        "old world alliance,lineman",
+        0, 3, 30000, 5, 2, 3, 4, 7,
         "dodge,right stuff,stunty",
         "agility",
         "general"
     ],
-    "human-catcher": [
-        "Human Catcher",
-        "human,catcher",
-        0,
-        2,
-        75000,
-        8,
-        3,
-        3,
-        4,
-        8,
-        "catch,dodge",
+    "alliance-human-blitzer": [
+        "Alliance Human Blitzer",
+        "old world alliance,blitzer",
+        0, 4, 85000, 7, 3, 3, 4, 9,
+        "block,tackle",
+        "strength,general",
+        "agility"
+    ],
+    "alliance-human-lineman": [
+        "Alliance Human Lineman",
+        "old world alliance,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 9,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "alliance-human-thrower": [
+        "Alliance Human Thrower",
+        "old world alliance,thrower",
+        0, 2, 75000, 6, 3, 3, 3, 9,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "black-orc": [
+        "Black Orc",
+        "blocker,orc",
+        0, 6, 90000, 4, 4, 4, 5, 10,
+        "brawler,grab",
+        "general,strength",
+        "agility,devious"
+    ],
+    "bretonnian-knight-catcher": [
+        "Bretonnian Knight Catcher",
+        "bretonnian,catcher",
+        0, 2, 75000, 7, 3, 3, 4, 8,
+        "catch,dauntless",
+        "general,agility",
+        "strength"
+    ],
+    "bretonnian-knight-thrower": [
+        "Bretonnian Knight Thrower",
+        "bretonnian,thrower",
+        0, 2, 85000, 6, 3, 3, 3, 9,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "bretonnian-squire": [
+        "Bretonnian Squire",
+        "bretonnian,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 8,
+        "wrestle",
+        "general",
+        "agility,strength"
+    ],
+    "chaos-beastman": [
+        "Chaos Beastman",
+        "chaos,lineman",
+        0, 16, 60000, 6, 3, 3, 4, 9,
+        "horns",
+        "general",
+        "agility,strength"
+    ],
+    "chaos-dwarf-blocker": [
+        "Chaos Dwarf Blocker",
+        "chaos dwarf,blocker",
+        0, 6, 70000, 4, 3, 4, 5, 10,
+        "block,thick skull",
+        "general,strength",
+        "agility"
+    ],
+    "chaos-dwarf-bullcentaur": [
+        "Chaos Dwarf Bullcentaur",
+        "chaos dwarf,runner",
+        0, 2, 130000, 6, 4, 3, 5, 9,
+        "sprint,sure feet,thick skull",
+        "general,strength",
+        "agility"
+    ],
+    "chaos-dwarf-minotaur": [
+        "Chaos Dwarf Minotaur",
+        "chaos dwarf,big guy",
+        0, 1, 150000, 5, 5, 4, 0, 9,
+        "animal savagery,claws,feral,loner (3+),mighty blow,thick skull,unchannelled fury",
+        "strength",
+        "general"
+    ],
+    "chaos-minotaur": [
+        "Chaos Minotaur",
+        "chaos,big guy",
+        0, 1, 150000, 5, 5, 4, 0, 9,
+        "animal savagery,claws,feral,loner (3+),mighty blow,thick skull,unchannelled fury",
+        "strength",
+        "general"
+    ],
+    "chaos-warrior": [
+        "Chaos Warrior",
+        "chaos,blocker",
+        0, 4, 100000, 5, 4, 4, 5, 10,
+        "",
+        "general,strength",
+        "agility"
+    ],
+    "dark-elf-assassin": [
+        "Dark Elf Assassin",
+        "dark elf,assassin",
+        0, 2, 85000, 6, 3, 2, 4, 8,
+        "stab,shadowing",
         "agility,general",
         "strength"
     ],
-    "human-thrower": [
-        "Human Thrower",
-        "human,thrower",
-        0,
-        2,
-        75000,
-        6,
-        3,
-        3,
-        3,
-        9,
+    "dark-elf-blight": [
+        "Dark Elf Blight",
+        "dark elf,blitzer",
+        0, 2, 110000, 7, 3, 2, 4, 9,
+        "block,sidestep",
+        "agility,general",
+        "strength"
+    ],
+    "dark-elf-lineman": [
+        "Dark Elf Lineman",
+        "dark elf,lineman",
+        0, 16, 70000, 6, 3, 2, 4, 9,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "dark-elf-runner": [
+        "Dark Elf Runner",
+        "dark elf,runner",
+        0, 2, 90000, 7, 3, 2, 3, 8,
+        "sure hands",
+        "general,agility",
+        "passing,strength"
+    ],
+    "dark-elf-witch-elf": [
+        "Dark Elf Witch Elf",
+        "dark elf,blitzer",
+        0, 2, 110000, 7, 3, 2, 4, 8,
+        "dodge,frenzy,jump up",
+        "agility,general",
+        "strength"
+    ],
+    "dwarf-blitzer": [
+        "Dwarf Blitzer",
+        "dwarf,blitzer",
+        0, 2, 100000, 5, 3, 4, 4, 10,
+        "block,diving tackle,tackle,thick skull",
+        "strength,general",
+        "passing"
+    ],
+    "dwarf-deathroller": [
+        "Dwarf Deathroller",
+        "dwarf,big guy",
+        0, 1, 170000, 4, 7, 5, 0, 11,
+        "break tackle,dirty player,juggernaut,loner (4+),mighty blow,no ball,secret weapon,stand firm",
+        "strength",
+        "general"
+    ],
+    "dwarf-lineman": [
+        "Dwarf Lineman",
+        "dwarf,lineman",
+        0, 16, 70000, 4, 3, 4, 5, 10,
+        "block,defensive,thick skull",
+        "general",
+        "strength"
+    ],
+    "dwarf-runner": [
+        "Dwarf Runner",
+        "dwarf,runner",
+        0, 2, 80000, 6, 3, 3, 4, 9,
+        "sprint,sure hands,thick skull",
+        "general,passing",
+        "strength"
+    ],
+    "dwarf-troll-slayer": [
+        "Dwarf Troll Slayer",
+        "dwarf,blitzer",
+        0, 2, 95000, 5, 3, 4, 5, 9,
+        "block,dauntless,frenzy,hatred (troll),thick skull",
+        "strength,general",
+        "devious"
+    ],
+    "eagle-warrior": [
+        "Eagle Warrior",
+        "amazon,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 8,
+        "dodge",
+        "general",
+        "agility,strength"
+    ],
+    "elven-union-blitzer": [
+        "Elven Union Blitzer",
+        "elven union,blitzer",
+        0, 2, 100000, 7, 3, 2, 4, 9,
+        "block,sidestep",
+        "agility,general",
+        "strength"
+    ],
+    "elven-union-catcher": [
+        "Elven Union Catcher",
+        "elven union,catcher",
+        0, 4, 85000, 8, 2, 2, 4, 8,
+        "catch,nerves of steel",
+        "agility,general",
+        "passing,strength"
+    ],
+    "elven-union-lineman": [
+        "Elven Union Lineman",
+        "elven union,lineman",
+        0, 16, 70000, 6, 3, 2, 4, 9,
+        "",
+        "general,agility",
+        "passing,strength"
+    ],
+    "elven-union-thrower": [
+        "Elven Union Thrower",
+        "elven union,thrower",
+        0, 2, 95000, 6, 3, 2, 2, 9,
         "pass,sure hands",
         "general,passing",
+        "agility,strength"
+    ],
+    "ghoul": [
+        "Ghoul",
+        "undead,runner",
+        0, 4, 75000, 7, 3, 3, 4, 8,
+        "",
+        "general,agility",
+        "strength"
+    ],
+    "gnome-forest-troll": [
+        "Gnome Forest Troll",
+        "gnome,big guy",
+        0, 1, 140000, 4, 5, 4, 0, 10,
+        "loner (3+),mighty blow,really stupid,regeneration,stand firm,take root,thick skull,throw team-mate",
+        "strength",
+        "general"
+    ],
+    "gnome-lineman": [
+        "Gnome Lineman",
+        "gnome,lineman",
+        0, 16, 40000, 5, 2, 3, 4, 7,
+        "dodge,right stuff,stunty,titchy",
+        "agility",
+        "general,passing,strength"
+    ],
+    "gnome-master-chef": [
+        "Gnome Master Chef",
+        "gnome,thrower",
+        0, 1, 120000, 5, 2, 3, 4, 7,
+        "disturbing presence (passing),dodge,right stuff,stunty,titchy",
+        "agility",
+        "general,passing"
+    ],
+    "goblin-bomma": [
+        "Goblin Bomma",
+        "goblin,thrower",
+        0, 2, 60000, 6, 2, 3, 4, 8,
+        "bombardier,dodge,right stuff,secret weapon,stunty",
+        "agility",
+        "general,passing"
+    ],
+    "goblin-bruiser": [
+        "Goblin Bruiser",
+        "goblin,lineman",
+        0, 16, 45000, 6, 2, 3, 4, 8,
+        "dodge,right stuff,stunty,thick skull",
+        "agility,devious",
+        "general,passing,strength"
+    ],
+    "goblin-doof-diver": [
+        "Goblin Doof Diver",
+        "goblin,catcher",
+        0, 2, 60000, 6, 2, 3, 4, 8,
+        "diving catch,dodge,right stuff,stunty",
+        "agility",
+        "general,passing"
+    ],
+    "goblin-fanatic": [
+        "Goblin Fanatic",
+        "goblin,blitzer",
+        0, 1, 70000, 3, 7, 3, 0, 7,
+        "ball and chain,no hands,right stuff,secret weapon,stunty,swing",
+        "strength",
+        "general"
+    ],
+    "goblin-loonie": [
+        "Goblin Loonie",
+        "goblin,lineman",
+        0, 16, 40000, 6, 2, 3, 4, 8,
+        "dodge,right stuff,stunty",
+        "agility",
+        "general,passing,strength"
+    ],
+    "goblin-pogoer": [
+        "Goblin Pogoer",
+        "goblin,catcher",
+        0, 2, 70000, 6, 2, 3, 4, 8,
+        "dodge,pogo stick,right stuff,stunty,very long legs",
+        "agility",
+        "general,passing,strength"
+    ],
+    "goblin-troll": [
+        "Goblin Troll",
+        "goblin,big guy",
+        0, 1, 95000, 4, 5, 5, 5, 9,
+        "always hungry,loner (3+),really stupid,regeneration,throw team-mate",
+        "strength",
+        "agility,passing"
+    ],
+    "grail-knight": [
+        "Grail Knight",
+        "bretonnian,blitzer",
+        0, 4, 110000, 7, 3, 3, 4, 9,
+        "block,catch,dauntless",
+        "strength,general",
+        "agility"
+    ],
+    "halfling-hopeful": [
+        "Halfling Hopeful",
+        "halfling,lineman",
+        0, 3, 30000, 5, 2, 3, 4, 7,
+        "dodge,right stuff,stunty",
+        "agility",
+        "general"
+    ],
+    "halfling-treeman": [
+        "Halfling Treeman",
+        "halfling,big guy",
+        0, 2, 120000, 2, 6, 6, 0, 11,
+        "loner (4+),mighty blow,stand firm,take root,throw team-mate,thick skull",
+        "strength",
+        "general"
+    ],
+    "high-elf-blitzer": [
+        "High Elf Blitzer",
+        "high elf,blitzer",
+        0, 4, 100000, 7, 3, 2, 4, 9,
+        "block",
+        "general,agility",
+        "passing,strength"
+    ],
+    "high-elf-catcher": [
+        "High Elf Catcher",
+        "high elf,catcher",
+        0, 4, 90000, 8, 3, 2, 3, 8,
+        "catch",
+        "general,agility",
+        "strength"
+    ],
+    "high-elf-lineman": [
+        "High Elf Lineman",
+        "high elf,lineman",
+        0, 16, 65000, 6, 3, 2, 3, 9,
+        "",
+        "general,agility",
+        "passing,strength"
+    ],
+    "high-elf-lion-warrior": [
+        "High Elf Lion Warrior",
+        "high elf,blitzer",
+        0, 2, 110000, 7, 3, 2, 4, 9,
+        "block,dauntless",
+        "general,agility",
+        "passing,strength"
+    ],
+    "high-elf-thrower": [
+        "High Elf Thrower",
+        "high elf,thrower",
+        0, 2, 100000, 6, 3, 2, 2, 9,
+        "cloud burster,pass,safe pass",
+        "general,agility,passing",
+        "strength"
+    ],
+    "hobgoblin": [
+        "Hobgoblin",
+        "chaos dwarf,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 8,
+        "",
+        "general",
         "agility,strength"
     ],
     "human-blitzer": [
         "Human Blitzer",
         "human,blitzer",
-        0,
-        4,
-        85000,
-        7,
-        3,
-        3,
-        4,
-        9,
+        0, 4, 85000, 7, 3, 3, 4, 9,
         "block,tackle",
         "strength,general",
+        "agility"
+    ],
+    "human-catcher": [
+        "Human Catcher",
+        "human,catcher",
+        0, 2, 75000, 8, 3, 3, 4, 8,
+        "catch,dodge",
+        "agility,general",
+        "strength"
+    ],
+    "human-lineman": [
+        "Human Lineman",
+        "human,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 9,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "human-thrower": [
+        "Human Thrower",
+        "human,thrower",
+        0, 2, 75000, 6, 3, 3, 3, 9,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "imperial-bodyguard": [
+        "Imperial Bodyguard",
+        "imperial nobility,blitzer",
+        0, 4, 95000, 6, 3, 3, 4, 10,
+        "stand firm",
+        "strength,general",
+        "agility"
+    ],
+    "imperial-ogre-bodyguard": [
+        "Imperial Ogre Bodyguard",
+        "imperial nobility,big guy",
+        0, 1, 140000, 5, 5, 4, 5, 10,
+        "bone head,loner (3+),mighty blow,stand firm,thick skull,throw team-mate",
+        "strength",
+        "agility"
+    ],
+    "imperial-retainer": [
+        "Imperial Retainer",
+        "imperial nobility,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 9,
+        "fend",
+        "general",
+        "agility,strength"
+    ],
+    "imperial-thrower": [
+        "Imperial Thrower",
+        "imperial nobility,thrower",
+        0, 2, 85000, 6, 3, 3, 3, 9,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "jaguar-warrior": [
+        "Jaguar Warrior",
+        "amazon,blocker",
+        0, 2, 110000, 6, 4, 3, 4, 9,
+        "defensive,dodge",
+        "general,strength",
+        "agility"
+    ],
+    "khorne-bloodspawn": [
+        "Khorne Bloodspawn",
+        "khorne,big guy",
+        0, 1, 160000, 5, 5, 4, 0, 10,
+        "bloodlust,claws,feral,loner (3+),mighty blow,thick skull,unchannelled fury",
+        "strength",
+        "general"
+    ],
+    "khorne-lineman": [
+        "Khorne Lineman",
+        "khorne,lineman",
+        0, 16, 60000, 6, 3, 3, 5, 9,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "khorne-marauder": [
+        "Khorne Marauder",
+        "khorne,runner",
+        0, 4, 70000, 6, 3, 3, 5, 9,
+        "horns",
+        "general",
+        "agility,strength"
+    ],
+    "khorne-warrior": [
+        "Khorne Warrior",
+        "khorne,blocker",
+        0, 4, 100000, 5, 4, 4, 5, 10,
+        "",
+        "general,strength",
+        "agility"
+    ],
+    "kroxigor": [
+        "Kroxigor",
+        "lizardman,big guy",
+        0, 1, 140000, 6, 5, 4, 0, 9,
+        "bone head,loner (3+),mighty blow,prehensile tail",
+        "strength",
+        "general"
+    ],
+    "mummy": [
+        "Mummy",
+        "undead,big guy",
+        0, 2, 125000, 3, 5, 5, 0, 10,
+        "decay,loner (4+),mighty blow,regeneration,stand firm",
+        "strength",
+        "general"
+    ],
+    "necromantic-flesh-golem": [
+        "Necromantic Flesh Golem",
+        "necromantic,blocker",
+        0, 2, 110000, 4, 4, 5, 0, 10,
+        "regeneration,stand firm,thick skull",
+        "strength,general",
+        "agility"
+    ],
+    "necromantic-ghoul": [
+        "Necromantic Ghoul",
+        "necromantic,runner",
+        0, 4, 75000, 7, 3, 3, 4, 8,
+        "",
+        "general,agility",
+        "strength"
+    ],
+    "necromantic-werewolf": [
+        "Necromantic Werewolf",
+        "necromantic,blitzer",
+        0, 2, 120000, 8, 3, 3, 4, 9,
+        "claws,frenzy,regeneration",
+        "strength,general",
+        "agility"
+    ],
+    "necromantic-wight": [
+        "Necromantic Wight",
+        "necromantic,blitzer",
+        0, 2, 90000, 6, 3, 3, 4, 9,
+        "block,regeneration",
+        "general,strength",
+        "agility"
+    ],
+    "necromantic-zombie": [
+        "Necromantic Zombie",
+        "necromantic,lineman",
+        0, 16, 40000, 4, 3, 4, 0, 9,
+        "regeneration",
+        "general,strength",
+        "agility"
+    ],
+    "norse-lineman": [
+        "Norse Lineman",
+        "norse,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 9,
+        "block",
+        "general",
+        "agility,strength"
+    ],
+    "norse-thrower": [
+        "Norse Thrower",
+        "norse,thrower",
+        0, 2, 70000, 6, 3, 3, 3, 9,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "norse-ulfwerener": [
+        "Norse Ulfwerener",
+        "norse,blitzer",
+        0, 2, 110000, 6, 4, 3, 4, 9,
+        "claws,frenzy,regeneration",
+        "strength,general",
+        "agility"
+    ],
+    "norse-valkyrie": [
+        "Norse Valkyrie",
+        "norse,blitzer",
+        0, 2, 95000, 6, 3, 3, 4, 9,
+        "block,jump up",
+        "strength,general",
+        "agility"
+    ],
+    "norse-yhetee": [
+        "Norse Yhetee",
+        "norse,big guy",
+        0, 1, 140000, 6, 5, 4, 0, 9,
+        "claws,disturbing presence,loner (3+),mighty blow,really stupid,thick skull",
+        "strength",
+        "general"
+    ],
+    "nurgle-beast": [
+        "Nurgle Beast",
+        "nurgle,big guy",
+        0, 1, 140000, 4, 5, 4, 0, 10,
+        "disturbing presence,loner (3+),mighty blow,regeneration,stand firm,tentacles,thick skull",
+        "strength",
+        "general"
+    ],
+    "nurgle-pestigor": [
+        "Nurgle Pestigor",
+        "nurgle,runner",
+        0, 4, 85000, 6, 3, 3, 4, 9,
+        "horns",
+        "general",
+        "agility,strength"
+    ],
+    "nurgle-rotter": [
+        "Nurgle Rotter",
+        "nurgle,lineman",
+        0, 16, 40000, 5, 3, 4, 5, 9,
+        "decay,regeneration",
+        "general,strength",
+        "agility"
+    ],
+    "nurgle-warrior": [
+        "Nurgle Warrior",
+        "nurgle,blocker",
+        0, 4, 115000, 4, 4, 5, 5, 10,
+        "disturbing presence,regeneration",
+        "general,strength",
         "agility"
     ],
     "ogre": [
         "Ogre",
         "ogre,bigguy",
-        0,
-        1,
-        140000,
-        5,
-        5,
-        4,
-        5,
-        10,
+        0, 1, 140000, 5, 5, 4, 5, 10,
         "bone head,loner (3+),mighty blow,thick skull,throw team-mate",
         "strength",
         "agility"
     ],
-    "eagle-warrior": [
-        "Eagle Warrior",
-        "amazon,lineman",
-        0,
-        16,
-        50000,
-        6,
-        3,
-        3,
-        4,
-        8,
-        "dodge",
+    "ogre-gnome": [
+        "Ogre Gnome",
+        "ogre,lineman",
+        0, 16, 40000, 5, 2, 3, 4, 7,
+        "dodge,right stuff,stunty,titchy",
+        "agility",
+        "general,passing,strength"
+    ],
+    "ogre-ogre": [
+        "Ogre Ogre",
+        "ogre,bigguy",
+        0, 16, 140000, 5, 5, 4, 5, 10,
+        "bone head,loner (3+),mighty blow,thick skull,throw team-mate",
+        "strength",
+        "agility"
+    ],
+    "orc-black-orc": [
+        "Orc Black Orc",
+        "orc,blocker",
+        0, 4, 90000, 4, 4, 4, 5, 10,
+        "",
+        "general,strength",
+        "agility"
+    ],
+    "orc-blitzer": [
+        "Orc Blitzer",
+        "orc,blitzer",
+        0, 4, 90000, 6, 3, 4, 4, 10,
+        "block",
+        "general,strength",
+        "agility"
+    ],
+    "orc-goblin": [
+        "Orc Goblin",
+        "goblin,lineman",
+        0, 4, 40000, 6, 2, 3, 4, 8,
+        "dodge,right stuff,stunty",
+        "agility",
+        "general,passing,strength"
+    ],
+    "orc-lineman": [
+        "Orc Lineman",
+        "orc,lineman",
+        0, 16, 50000, 5, 3, 4, 5, 10,
+        "",
         "general",
         "agility,strength"
     ],
-    "python-warrior": [
-        "Python Warrior",
-        "amazon,thrower",
-        0,
-        2,
-        80000,
-        6,
-        3,
-        3,
-        3,
-        8,
-        "dodge,onthe ball,pass,safe pass",
+    "orc-thrower": [
+        "Orc Thrower",
+        "orc,thrower",
+        0, 2, 75000, 5, 3, 4, 3, 9,
+        "pass,sure hands",
         "general,passing",
         "agility,strength"
+    ],
+    "orc-troll": [
+        "Orc Troll",
+        "troll,big guy",
+        0, 1, 110000, 4, 5, 5, 5, 10,
+        "always hungry,loner (3+),mighty blow,really stupid,regeneration,throw team-mate",
+        "strength",
+        "agility,passing"
     ],
     "piranha-warrior": [
         "Piranha Warrior",
         "amazon,blitzer",
-        0,
-        2,
-        90000,
-        7,
-        3,
-        3,
-        4,
-        8,
+        0, 2, 90000, 7, 3, 3, 4, 8,
         "dodge,hit and run,jump up",
         "agility,general",
         "strength"
     ],
-    "jaguar-warrior": [
-        "Jaguar Warrior",
-        "amazon,blocker",
-        0,
-        2,
-        110000,
-        6,
-        4,
-        3,
-        4,
-        9,
-        "defensive,dodge",
+    "python-warrior": [
+        "Python Warrior",
+        "amazon,thrower",
+        0, 2, 80000, 6, 3, 3, 3, 8,
+        "dodge,onthe ball,pass,safe pass",
+        "general,passing",
+        "agility,strength"
+    ],
+    "renegade-dark-elf": [
+        "Renegade Dark Elf",
+        "renegade,lineman",
+        0, 16, 70000, 6, 3, 2, 4, 9,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "renegade-goblin": [
+        "Renegade Goblin",
+        "renegade,lineman",
+        0, 16, 40000, 6, 2, 3, 4, 8,
+        "dodge,right stuff,stunty",
+        "agility",
+        "general,passing,strength"
+    ],
+    "renegade-human": [
+        "Renegade Human",
+        "renegade,lineman",
+        0, 16, 50000, 6, 3, 3, 4, 9,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "renegade-minotaur": [
+        "Renegade Minotaur",
+        "renegade,big guy",
+        0, 1, 150000, 5, 5, 4, 0, 9,
+        "animal savagery,claws,feral,loner (3+),mighty blow,thick skull,unchannelled fury",
+        "strength",
+        "general"
+    ],
+    "renegade-ogre": [
+        "Renegade Ogre",
+        "renegade,big guy",
+        0, 1, 140000, 5, 5, 4, 5, 10,
+        "bone head,loner (3+),mighty blow,thick skull,throw team-mate",
+        "strength",
+        "agility"
+    ],
+    "renegade-orc": [
+        "Renegade Orc",
+        "renegade,lineman",
+        0, 16, 50000, 5, 3, 4, 5, 10,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "renegade-skaven": [
+        "Renegade Skaven",
+        "renegade,lineman",
+        0, 16, 50000, 7, 3, 3, 4, 8,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "renegade-troll": [
+        "Renegade Troll",
+        "renegade,big guy",
+        0, 1, 110000, 4, 5, 5, 5, 10,
+        "always hungry,loner (3+),mighty blow,really stupid,regeneration,throw team-mate",
+        "strength",
+        "agility,passing"
+    ],
+    "saurus-blocker": [
+        "Saurus Blocker",
+        "lizardman,blocker",
+        0, 6, 85000, 6, 4, 5, 0, 9,
+        "",
         "general,strength",
         "agility"
     ],
-    "goblin-bruiser": [
-        "Goblin Bruiser",
-        "goblin,lineman",
-        0,
-        16,
-        45000,
-        6,
-        2,
-        3,
-        4,
-        8,
-        "dodge,right stuff,stunty,thick skull",
-        "agility,devious",
-        "general,passing,strength"
+    "skaven-gutter-runner": [
+        "Skaven Gutter Runner",
+        "skaven,catcher",
+        0, 4, 85000, 9, 2, 2, 4, 7,
+        "dodge,stunty",
+        "agility,general",
+        "passing,strength"
     ],
-    "black-orc": [
-        "Black Orc",
-        "blocker,orc",
-        0,
-        6,
-        90000,
-        4,
-        4,
-        4,
-        5,
-        10,
-        "brawler,grab",
+    "skaven-lineman": [
+        "Skaven Lineman",
+        "skaven,lineman",
+        0, 16, 50000, 7, 3, 3, 4, 8,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "skaven-rat-ogre": [
+        "Skaven Rat Ogre",
+        "skaven,big guy",
+        0, 1, 150000, 6, 5, 4, 0, 9,
+        "animal savagery,loner (3+),mighty blow,prehensile tail,regeneration",
+        "strength",
+        "general"
+    ],
+    "skaven-stormvermin": [
+        "Skaven Stormvermin",
+        "skaven,blitzer",
+        0, 2, 95000, 7, 3, 3, 4, 9,
+        "block,claws",
         "general,strength",
-        "agility,devious"
+        "agility"
+    ],
+    "skaven-thrower": [
+        "Skaven Thrower",
+        "skaven,thrower",
+        0, 2, 85000, 7, 3, 3, 2, 8,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "skeleton": [
+        "Skeleton",
+        "undead,lineman",
+        0, 16, 40000, 5, 3, 4, 0, 8,
+        "regeneration,thick skull",
+        "general,strength",
+        "agility"
+    ],
+    "skeleton-lineman": [
+        "Skeleton Lineman",
+        "tomb king,lineman",
+        0, 16, 40000, 5, 3, 4, 0, 8,
+        "regeneration,thick skull",
+        "general,strength",
+        "agility"
+    ],
+    "skink-chameleon": [
+        "Skink Chameleon",
+        "lizardman,catcher",
+        0, 2, 80000, 7, 2, 2, 4, 7,
+        "catch,dodge,stunty",
+        "agility,general",
+        "passing,strength"
+    ],
+    "skink-runner": [
+        "Skink Runner",
+        "lizardman,lineman",
+        0, 16, 60000, 8, 2, 3, 4, 7,
+        "dodge,stunty",
+        "agility,general",
+        "passing,strength"
+    ],
+    "slann-blower": [
+        "Slann Blower",
+        "slann,blitzer",
+        0, 2, 95000, 7, 3, 2, 4, 9,
+        "block,leap,very long legs",
+        "agility,general",
+        "passing,strength"
+    ],
+    "slann-catcher": [
+        "Slann Catcher",
+        "slann,catcher",
+        0, 4, 85000, 7, 3, 2, 4, 8,
+        "catch,leap,very long legs",
+        "agility,general",
+        "passing,strength"
+    ],
+    "slann-kroxigor": [
+        "Slann Kroxigor",
+        "slann,big guy",
+        0, 1, 140000, 6, 5, 4, 0, 9,
+        "bone head,loner (3+),mighty blow,prehensile tail",
+        "strength",
+        "general"
+    ],
+    "slann-linefrog": [
+        "Slann Linefrog",
+        "slann,lineman",
+        0, 16, 60000, 6, 3, 2, 4, 9,
+        "leap,very long legs",
+        "agility,general",
+        "passing,strength"
+    ],
+    "snotling": [
+        "Snotling",
+        "snotling,lineman",
+        0, 16, 15000, 5, 1, 4, 0, 6,
+        "dodge,right stuff,stunty,titchy",
+        "agility",
+        "general,passing"
+    ],
+    "snotling-ogre": [
+        "Snotling Ogre",
+        "snotling,big guy",
+        0, 2, 140000, 5, 5, 4, 5, 10,
+        "bone head,loner (3+),mighty blow,thick skull,throw team-mate",
+        "strength",
+        "agility"
+    ],
+    "snotling-pump-wagon": [
+        "Snotling Pump Wagon",
+        "snotling,big guy",
+        0, 4, 85000, 5, 5, 5, 0, 9,
+        "animosity (all),loner (3+),mighty blow,no hands,secret weapon",
+        "strength",
+        "general"
+    ],
+    "snotling-troll": [
+        "Snotling Troll",
+        "snotling,big guy",
+        0, 2, 95000, 4, 5, 5, 5, 9,
+        "always hungry,loner (3+),really stupid,regeneration,throw team-mate",
+        "strength",
+        "agility,passing"
+    ],
+    "thrall": [
+        "Thrall",
+        "vampire,lineman",
+        0, 16, 40000, 6, 3, 3, 4, 8,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "tomb-king-blitz-ra": [
+        "Tomb King Blitz-Ra",
+        "tomb king,blitzer",
+        0, 2, 90000, 6, 3, 4, 4, 8,
+        "block,regeneration,thick skull",
+        "general,strength",
+        "agility"
+    ],
+    "tomb-king-guardian": [
+        "Tomb King Guardian",
+        "tomb king,big guy",
+        0, 4, 100000, 4, 5, 5, 0, 9,
+        "decay,regeneration,stand firm,thick skull",
+        "strength",
+        "general"
+    ],
+    "tomb-king-throw-ra": [
+        "Tomb King Throw-Ra",
+        "tomb king,thrower",
+        0, 2, 70000, 6, 3, 4, 3, 8,
+        "pass,regeneration,sure hands,thick skull",
+        "general,passing",
+        "strength"
     ],
     "trained-troll": [
         "Trained Troll",
         "big guy,troll",
-        0,
-        1,
-        115000,
-        4,
-        5,
-        5,
-        5,
-        10,
+        0, 1, 115000, 4, 5, 5, 5, 10,
         "always hungry,loner (3+),mighty blow (+1),projectile vomit,really stupid,regeneration,throw team-mate",
         "strength",
         "agility,passing"
+    ],
+    "underworld-goblin": [
+        "Underworld Goblin",
+        "underworld,lineman",
+        0, 16, 40000, 6, 2, 3, 4, 8,
+        "dodge,right stuff,stunty",
+        "agility",
+        "general,passing,strength"
+    ],
+    "underworld-skaven-blower": [
+        "Underworld Skaven Blower",
+        "underworld,blitzer",
+        0, 2, 90000, 7, 3, 3, 4, 9,
+        "bombardier,secret weapon",
+        "general,strength",
+        "agility"
+    ],
+    "underworld-skaven-lineman": [
+        "Underworld Skaven Lineman",
+        "underworld,lineman",
+        0, 16, 50000, 7, 3, 3, 4, 8,
+        "",
+        "general",
+        "agility,strength"
+    ],
+    "underworld-skaven-linerat": [
+        "Underworld Skaven Linerat",
+        "underworld,blocker",
+        0, 2, 70000, 6, 3, 3, 4, 9,
+        "two heads",
+        "general,strength",
+        "agility"
+    ],
+    "underworld-skaven-thrower": [
+        "Underworld Skaven Thrower",
+        "underworld,thrower",
+        0, 2, 85000, 7, 3, 3, 2, 8,
+        "pass,sure hands",
+        "general,passing",
+        "agility,strength"
+    ],
+    "underworld-troll": [
+        "Underworld Troll",
+        "underworld,big guy",
+        0, 1, 115000, 4, 5, 5, 5, 10,
+        "always hungry,loner (3+),mighty blow,really stupid,regeneration,throw team-mate",
+        "strength",
+        "agility,passing"
+    ],
+    "vampire": [
+        "Vampire",
+        "vampire,blitzer",
+        0, 4, 110000, 6, 4, 2, 4, 9,
+        "bloodlust,hypnotic gaze,regeneration",
+        "agility,general,passing,strength",
+        ""
+    ],
+    "vampire-thrall": [
+        "Vampire Thrall",
+        "vampire,catcher",
+        0, 4, 70000, 6, 3, 3, 4, 8,
+        "",
+        "general,agility",
+        "strength"
+    ],
+    "wight": [
+        "Wight",
+        "undead,blitzer",
+        0, 2, 90000, 6, 3, 3, 4, 9,
+        "block,regeneration",
+        "general,strength",
+        "agility"
+    ],
+    "wood-elf-catcher": [
+        "Wood Elf Catcher",
+        "wood elf,catcher",
+        0, 4, 90000, 8, 2, 2, 4, 7,
+        "catch,dodge",
+        "agility,general",
+        "passing,strength"
+    ],
+    "wood-elf-lineman": [
+        "Wood Elf Lineman",
+        "wood elf,lineman",
+        0, 16, 70000, 7, 3, 2, 4, 8,
+        "",
+        "general,agility",
+        "passing,strength"
+    ],
+    "wood-elf-treeman": [
+        "Wood Elf Treeman",
+        "treeman,big guy",
+        0, 1, 120000, 2, 6, 6, 0, 11,
+        "loner (4+),mighty blow,stand firm,take root,throw team-mate,thick skull",
+        "strength",
+        "general"
+    ],
+    "wood-elf-wardancer": [
+        "Wood Elf Wardancer",
+        "wood elf,blitzer",
+        0, 2, 120000, 8, 3, 2, 4, 8,
+        "block,dauntless,dodge,leap",
+        "agility,general",
+        "strength"
+    ],
+    "zombie": [
+        "Zombie",
+        "undead,lineman",
+        0, 16, 40000, 4, 3, 4, 0, 9,
+        "regeneration",
+        "general,strength",
+        "agility"
     ]
 }

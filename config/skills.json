@@ -1,0 +1,487 @@
+{
+    "block": {
+        "displayName": "Block",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "dauntless": {
+        "displayName": "Dauntless",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "fend": {
+        "displayName": "Fend",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "frenzy": {
+        "displayName": "Frenzy",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "kick": {
+        "displayName": "Kick",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "pro": {
+        "displayName": "Pro",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "steady-footing": {
+        "displayName": "Steady Footing",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "strip-ball": {
+        "displayName": "Strip Ball",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "sure-hands": {
+        "displayName": "Sure Hands",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "tackle": {
+        "displayName": "Tackle",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "taunt": {
+        "displayName": "Taunt",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "wrestle": {
+        "displayName": "Wrestle",
+        "ruleText": "",
+        "skillType": "general"
+    },
+    "catch": {
+        "displayName": "Catch",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "defensive": {
+        "displayName": "Defensive",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "diving-catch": {
+        "displayName": "Diving Catch",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "diving-tackle": {
+        "displayName": "Diving Tackle",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "dodge": {
+        "displayName": "Dodge",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "hit-and-run": {
+        "displayName": "Hit & Run",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "jump-up": {
+        "displayName": "Jump Up",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "leap": {
+        "displayName": "Leap",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "safe-pair-of-hands": {
+        "displayName": "Safe Pair of Hands",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "sidestep": {
+        "displayName": "Sidestep",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "sprint": {
+        "displayName": "Sprint",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "sure-feet": {
+        "displayName": "Sure Feet",
+        "ruleText": "",
+        "skillType": "agility"
+    },
+    "accurate": {
+        "displayName": "Accurate",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "cannoneer": {
+        "displayName": "Cannoneer",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "cloud-burster": {
+        "displayName": "Cloud Burster",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "dump-off": {
+        "displayName": "Dump-off",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "give-and-go": {
+        "displayName": "Give and Go",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "hail-mary-pass": {
+        "displayName": "Hail Mary Pass",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "leader": {
+        "displayName": "Leader",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "nerves-of-steel": {
+        "displayName": "Nerves of Steel",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "on-the-ball": {
+        "displayName": "On the Ball",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "pass": {
+        "displayName": "Pass",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "punt": {
+        "displayName": "Punt",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "safe-pass": {
+        "displayName": "Safe Pass",
+        "ruleText": "",
+        "skillType": "passing"
+    },
+    "arm-bar": {
+        "displayName": "Arm Bar",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "brawler": {
+        "displayName": "Brawler",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "break-tackle": {
+        "displayName": "Break Tackle",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "bullseye": {
+        "displayName": "Bullseye",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "grab": {
+        "displayName": "Grab",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "guard": {
+        "displayName": "Guard",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "juggernaut": {
+        "displayName": "Juggernaut",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "mighty-blow": {
+        "displayName": "Mighty Blow",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "multiple-block": {
+        "displayName": "Multiple Block",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "stand-firm": {
+        "displayName": "Stand Firm",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "strong-arm": {
+        "displayName": "Strong Arm",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "thick-skull": {
+        "displayName": "Thick Skull",
+        "ruleText": "",
+        "skillType": "strength"
+    },
+    "big-hand": {
+        "displayName": "Big Hand",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "claws": {
+        "displayName": "Claws",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "disturbing-presence": {
+        "displayName": "Disturbing Presence",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "extra-arms": {
+        "displayName": "Extra Arms",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "foul-appearance": {
+        "displayName": "Foul Appearance",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "horns": {
+        "displayName": "Horns",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "iron-hard-skin": {
+        "displayName": "Iron Hard Skin",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "monstrous-mouth": {
+        "displayName": "Monstrous Mouth",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "prehensile-tail": {
+        "displayName": "Prehensile Tail",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "tentacles": {
+        "displayName": "Tentacles",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "two-heads": {
+        "displayName": "Two Heads",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "very-long-legs": {
+        "displayName": "Very Long Legs",
+        "ruleText": "",
+        "skillType": "mutation"
+    },
+    "always-hungry": {
+        "displayName": "Always Hungry",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "animal-savagery": {
+        "displayName": "Animal Savagery",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "animosity": {
+        "displayName": "Animosity",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "ball-and-chain": {
+        "displayName": "Ball & Chain",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "bloodlust": {
+        "displayName": "Bloodlust",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "bombardier": {
+        "displayName": "Bombardier",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "bone-head": {
+        "displayName": "Bone Head",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "breathe-fire": {
+        "displayName": "Breathe Fire",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "chainsaw": {
+        "displayName": "Chainsaw",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "decay": {
+        "displayName": "Decay",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "drunkard": {
+        "displayName": "Drunkard",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "hatred": {
+        "displayName": "Hatred",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "hypnotic-gaze": {
+        "displayName": "Hypnotic Gaze",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "infected": {
+        "displayName": "Infected",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "insignificant": {
+        "displayName": "Insignificant",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "kick-team-mate": {
+        "displayName": "Kick Team-mate",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "loner": {
+        "displayName": "Loner",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "my-ball": {
+        "displayName": "My Ball",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "no-ball": {
+        "displayName": "No Ball",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "pick-me-up": {
+        "displayName": "Pick-me-up",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "plague-ridden": {
+        "displayName": "Plague Ridden",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "pogo-stick": {
+        "displayName": "Pogo Stick",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "projectile-vomit": {
+        "displayName": "Projectile Vomit",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "really-stupid": {
+        "displayName": "Really Stupid",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "regeneration": {
+        "displayName": "Regeneration",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "right-stuff": {
+        "displayName": "Right Stuff",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "secret-weapon": {
+        "displayName": "Secret Weapon",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "stab": {
+        "displayName": "Stab",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "stunty": {
+        "displayName": "Stunty",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "swoop": {
+        "displayName": "Swoop",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "take-root": {
+        "displayName": "Take Root",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "throw-team-mate": {
+        "displayName": "Throw Team-mate",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "timmm-ber": {
+        "displayName": "Timmm-ber!",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "titchy": {
+        "displayName": "Titchy",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "trickster": {
+        "displayName": "Trickster",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "unchannelled-fury": {
+        "displayName": "Unchannelled Fury",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    },
+    "unsteady": {
+        "displayName": "Unsteady",
+        "ruleText": "",
+        "skillType": "extraordinary"
+    }
+}
